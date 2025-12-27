@@ -29,6 +29,7 @@
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Khushi Shorey | khushishorey | IIIT Allahabad |
+| Rahi Birajdar | birajdar464   |IIIT Allahabad  | 
 | Ishan Raj Singh | ishanrajsingh | Amity Noida |
 | Spandana Surepally | Spandana-S16 | IIIT Allahabad |
 | Sayed Al Amaan zaidi         | amaan1114           | Rishihood University              |
@@ -48,7 +49,7 @@
 | Vishva Modh | ViMo018 | IIIT Allahabad |
 | Roshan Gupta| roshangupta4804-hue |  |  IIIT Allahabad | 
 | Ansh Patel             | ansh54052           | IIIT Allahabad                  |
-<!-- ADD ABOVE THIS -->
 | Sahil                   |Sahil-git005          | IIIT Allahabad               |
+<!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
